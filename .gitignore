@@ -1,0 +1,12 @@
+# Ignore virtual environment directories
+bin/
+include/
+lib/
+pyvenv.cfg
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore environment variables
+.env
+
